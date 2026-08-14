@@ -1,0 +1,4 @@
+# 桥接服务依赖
+PyYAML>=6.0
+# 企业微信智能机器人长连接（WebSocket）客户端
+websockets>=12.0
